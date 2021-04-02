@@ -1,0 +1,25 @@
+{
+  "name": "tsuki",
+  "version": "1.0.0",
+  "description": "A simple Electron-based file manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkGuy10/Tsuki.git"
+  },
+  "author": "DarkGuy10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkGuy10/Tsuki/issues"
+  },
+  "homepage": "https://github.com/DarkGuy10/Tsuki#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "electron": "^12.0.2",
+    "mime": "^2.5.2",
+    "mmmagic": "^0.5.3"
+  }
+}

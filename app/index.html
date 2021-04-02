@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+        <script src="../node_modules/@fortawesome/fontawesome-free/js/all.js"></script>
+        <title>Tsuki File Manager</title>
+    </head>
+    <body>
+        <div id="topBar">
+            <button id="back"><i class="fas fa-arrow-left fa-fw"></i></button>
+            <button id="forward"><i class="fas fa-arrow-right fa-fw"></i></button>
+            <span id="currentLocation"></span>
+        </div>
+
+        <div id="leftPane">
+            <ul id="bookmarked">
+                <li id="~"><i class="fas fa-home fa-fw"></i> Home</li>
+                <li id="~/Documents"><i class="fas fa-file fa-fw"></i> Documents</li>
+                <li id="~/Downloads"><i class="fas fa-download fa-fw"></i> Downloads</li>
+                <li id="~/Music"><i class="fas fa-music fa-fw"></i> Music</li>
+                <li id="~/Pictures"><i class="fas fa-image fa-fw"></i> Pictures</li>
+                <li id="~/Videos"><i class="fas fa-video fa-fw"></i> Videos</li>
+            </ul>
+        </div>
+
+        <div id="rightPane">
+            <h1 id="message">
+
+            </h1>
+            <ul id="directoryListing">
+
+            </ul>
+        </div>
+
+        <script src="script.js" charset="utf-8"></script>
+    </body>
+</html>
