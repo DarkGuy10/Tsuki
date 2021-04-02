@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <g transform="translate(-1,-1)">
-  <path style="opacity:0.2" d="m 5,2.5 c -0.554,0 -1,0.446 -1,1 v 18 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 8.5 L 14.5,8 14,2.5 Z"/>
-  <path style="fill:#4bae4f" d="M 5,2 C 4.446,2 4,2.446 4,3 v 18 c 0,0.554 0.446,1 1,1 h 14 c 0.554,0 1,-0.446 1,-1 V 8 L 14.5,7.5 14,2 Z"/>
-  <path style="opacity:0.1;fill:#ffffff" d="M 5,2 C 4.446,2 4,2.446 4,3 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 9 L 19.5,8 H 20 L 14,2 Z"/>
-  <path style="opacity:0.2" d="m 14,2.5 v 5 c 0,0.5523 0.44772,1 1,1 h 5 z"/>
-  <path style="fill:#95cd97" d="m 14,2 v 5 c 0,0.5523 0.44772,1 1,1 h 5 z"/>
-  <path style="opacity:0.2" d="m 8,12.5 v 7 h 7 v -7 z m 1,1 h 2 v 1 H 9 Z m 3,0 h 2 v 1 h -2 z m -3,2 h 2 v 1 H 9 Z m 3,0 h 2 v 1 h -2 z m -3,2 h 2 v 1 H 9 Z m 3,0 h 2 v 1 h -2 z"/>
-  <path style="fill:#ffffff" d="m 8,12 v 7 h 7 v -7 z m 1,1 h 2 v 1 H 9 Z m 3,0 h 2 v 1 h -2 z m -3,2 h 2 v 1 H 9 Z m 3,0 h 2 v 1 h -2 z m -3,2 h 2 v 1 H 9 Z m 3,0 h 2 v 1 h -2 z"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path style="opacity:0.2" d="M 10,5 C 8.892,5 8,5.892 8,7 v 36 c 0,1.108 0.892,2 2,2 h 28 c 1.108,0 2,-0.892 2,-2 V 17 L 29,16 28,5 Z"/>
+ <path style="fill:#4bae4f" d="M 10,4 C 8.892,4 8,4.892 8,6 v 36 c 0,1.108 0.892,2 2,2 h 28 c 1.108,0 2,-0.892 2,-2 V 16 L 29,15 28,4 Z"/>
+ <path style="opacity:0.1;fill:#ffffff" d="M 10,4 C 8.892,4 8,4.892 8,6 V 7 C 8,5.892 8.892,5 10,5 h 18 l 11,11 h 1 L 28,4 Z"/>
+ <path style="opacity:0.2" d="m 28,5 v 10 c 0,1.1046 0.89543,2 2,2 h 10 z"/>
+ <path style="fill:#95cd97" d="m 28,4 v 10 c 0,1.1046 0.89543,2 2,2 h 10 z"/>
+ <path style="opacity:0.2" d="M 15,38 H 33 V 24 H 15 Z m 2,-12 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m -8,4 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m -8,4 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z"/>
+ <path style="fill:#ffffff" d="M 15,37 H 33 V 23 H 15 Z m 2,-12 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m -8,4 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z m -8,4 h 6 v 2 h -6 z m 8,0 h 6 v 2 h -6 z"/>
 </svg>

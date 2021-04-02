@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <path style="opacity:0.2" d="m 21,19.5 v -16 c 0,-0.554 -0.446,-1 -1,-1 H 2 c -0.554,0 -1,0.446 -1,1 v 16 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 z"/>
- <path style="fill:#607d8b" d="M 21,19 V 3 C 21,2.446 20.554,2 20,2 H 2 C 1.446,2 1,2.446 1,3 v 16 c 0,0.554 0.446,1 1,1 h 18 c 0.554,0 1,-0.446 1,-1 z"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 2,2 C 1.446,2 1,2.446 1,3 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 3 C 21,2.446 20.554,2 20,2 Z"/>
- <path style="opacity:0.2" d="m 7,8.5 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z m 0,2 v 1 h 5 v -1 z"/>
- <path style="fill:#ffffff" d="m 7,8 v 1 h 8 V 8 Z m 0,2 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z m 0,2 v 1 h 5 v -1 z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
+ <path style="opacity:0.2" d="M 44,41 V 9 C 44,7.892 43.108,7 42,7 H 6 C 4.892,7 4,7.892 4,9 v 32 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 z"/>
+ <path fill="#607d8b" d="m44 40v-32c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2v32c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2z"/>
+ <path fill="#fff" opacity=".2" d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
+ <path style="opacity:0.2" d="m 15,32 v -2 h 11 v 2 z m 0,-4 v -2 h 18 v 2 z m 0,-4 v -2 h 18 v 2 z m 0,-4 v -2 h 18 v 2 z"/>
+ <path style="fill:#ffffff" d="m 15,31 v -2 h 11 v 2 z m 0,-4 v -2 h 18 v 2 z m 0,-4 v -2 h 18 v 2 z m 0,-4 v -2 h 18 v 2 z"/>
 </svg>
