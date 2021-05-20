@@ -10,7 +10,8 @@ app.on('ready', () => {
         backgroundColor: '#1e1e1e',
         webPreferences: {
 //            devTools: false, //disabled for testing
-            nodeIntegration: true
+            nodeIntegration: true,
+            contextIsolation: false
         }
     });
     mainWindow.maximize();
